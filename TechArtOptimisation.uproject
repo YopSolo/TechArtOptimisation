@@ -14,6 +14,10 @@
 		{
 			"Name": "DataprepEditor",
 			"Enabled": true
+		},
+		{
+			"Name": "CascadeToNiagaraConverter",
+			"Enabled": true
 		}
 	]
 }
